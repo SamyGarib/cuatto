@@ -95,6 +95,9 @@ In the 3dmodels subfolder, you can find 3 STL files ready for print.
 - The 4 checkers square
 - One complete team in one file.
 
+### Modeling
+In the 3dmodels subfolder the file board.scad has the source code in [Open SCAD](http://www.openscad.org/) format.
+
 # Observations and Future:
 - I'm now in a phase of testing. I have played it with many friend with great results, but I feel I coul'd change many macro rules to making more fun, like the team composition, board architecture, an so on.
 - I'm not sure about the amount of checkers vs the amount of players that would be optimal. Testing with 6, planning on more, maybe 10/12 for two people.
