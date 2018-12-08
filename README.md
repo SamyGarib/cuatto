@@ -1,5 +1,5 @@
 # Cuatto Open Board Game
-Cuatto is an open source dice race game aimed for the whole family, designed for 4 players, and playable by 2 to 6. 
+Cuatto is an open source abstract dice race game aimed for the whole family, designed for 4 players, and playable by 2 to 6. 
 
 ![Sample Board and Team][sampleboard]
 
@@ -8,6 +8,8 @@ It has a basic set of rules that are easily understandable by a 5 years old, and
 You can bend Cuatto's rules as you like, and create different setups that can differ between each other in length, board architecture, amount of checkers on each team, and classes of checkers for the teams.
 
 Cuatto is actually hundreds of games based on a simple modular 3d-printable board design.
+
+Cuatto was born when I wanted to make a backgammon like game for a group of people of my office.
 
 I would like Cuatto to be improved by the community if they find it fancy enough. 
 Because of that, I'm posting:
