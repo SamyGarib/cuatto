@@ -62,13 +62,13 @@ I have developed 2 kinds, but many more could be added.
 - I guess you can use the bridge as a ending point too. I have not figure it out a rule that makes sense for that yet (without making an horrorifically luck oriented ending).
 
 # Observations and Future:
-	-I'm now in a phase of testing. I have played it with many friend with great results, but I feel I coul'd change many macro rules to making more fun, like the team composition, board architecture, an so on.
-	-I'm not sure about the amount of checkers vs the amount of players that would be optimal. Testing with 6, planning on more, maybe 10/12 for two people.
-	-The double mechanics, like backgammon's, where you get 4 movements if you roll double, is on testing too. Because you are not (enfrentado) as in backgammon, to many doubles gives to much advantage, and not many (problemas) as in Backgammon.
-	-I'm considering adding bridges in the middle of the board, as a bottle-neck device. Idea phase, needs testing, probably won't work.
-	-I have other classes of checkers to develop and test:
-		-Wounded, odd and even: Those checkers can only move odd, or even numbers. You have one of each. 
-		-Bidirectional: You have one checker that can go back and forth.
-		-The addition of this classes depends on the ammount of checkers in one team. You need to have at lest 60% of regulars checkers. Why? I Don't know, normal distribution I guess.
-	-A multi path board could be made, with splited paths and joined again, one longer than the other but without a bottleneck (for instance). Board architechture could be a huge new world for the future.
+- I'm now in a phase of testing. I have played it with many friend with great results, but I feel I coul'd change many macro rules to making more fun, like the team composition, board architecture, an so on.
+- I'm not sure about the amount of checkers vs the amount of players that would be optimal. Testing with 6, planning on more, maybe 10/12 for two people.
+- The double mechanics, like backgammon's, where you get 4 movements if you roll double, is on testing too. Because you are not (enfrentado) as in backgammon, to many doubles gives to much advantage, and not many (problemas) as in Backgammon.
+- I'm considering adding bridges in the middle of the board, as a bottle-neck device. Idea phase, needs testing, probably won't work.
+- I have other classes of checkers to develop and test:
+ - Wounded, odd and even: Those checkers can only move odd, or even numbers. You have one of each. 
+  - Bidirectional: You have one checker that can go back and forth.
+  - The addition of this classes depends on the ammount of checkers in one team. You need to have at lest 60% of regulars checkers. Why? I Don't know, normal distribution I guess.
+  - A multi path board could be made, with splited paths and joined again, one longer than the other but without a bottleneck (for instance). Board architechture could be a huge new world for the future.
 
