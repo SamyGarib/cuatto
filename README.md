@@ -102,5 +102,5 @@ I developed 2 kinds, but many more could be added.
 Many people tells me games are better off themed. In that case, I think a Vulcano Escape theme should fit here, but I'm an abstract type of guy.
   
 [sampleboard]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/playing.jpeg "Board and Team Showcase"
-[elements1]: https://github.com/SamyGarib/cuatto/raw/master/images/render/elements1.png "Board and Team Showcase"
+[elements1]: https://github.com/SamyGarib/cuatto/raw/master/images/render/elements2.png "Board and Team Showcase"
 
