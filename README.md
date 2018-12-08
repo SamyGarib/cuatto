@@ -16,7 +16,6 @@ Because of that, I'm posting:
 # Basic Rules
 
 The field is composed of 12 to 24 four-checkers-sized positions.
-
 Each team has 6 checkers (or more, or less).
 
 The goal of the game is to move all of your checkers from the start position to the end position. The first team that gets all of its checkers out of the board wins.
@@ -60,6 +59,22 @@ I have developed 2 kinds, but many more could be added.
 - If a checker is hit, it must come back to the first free position of that bridge.
 - You can skip bridges entirely when playing with kids if you like, and use a free start position for each team member.
 - I guess you can use the bridge as a ending point too. I have not figure it out a rule that makes sense for that yet (without making an horrorifically luck oriented ending).
+
+
+## Game Elements
+
+### Basic Rules Setup: 
+- 18 squares.
+- Checkers per team:
+ - 6 regular.
+
+### Full Setup:
+- Starting Bridge, one per team. A 4 team bridges piece is provided.
+- 18 squares.
+- Checkers per team:
+ - 4 regular checkers.
+ - 1 pin checker.
+ - 1 strong checker.
 
 # Observations and Future:
 - I'm now in a phase of testing. I have played it with many friend with great results, but I feel I coul'd change many macro rules to making more fun, like the team composition, board architecture, an so on.
