@@ -24,29 +24,34 @@ Each team has 6 checkers (or more, or less).
 
 The goal of the game is to move all of your checkers from the start position to the end position. The first team that gets all of its checkers out of the board wins.
 
+In the basic form, the starting position of the team is just outside the board (position 0, where everybody is).
+
 On each turn, a player throws 2 dice, and has two movements to make, for each die face value.
 
-The checker can move if the position where it lands is not full, and is not blocked by another team.
+The checker can move if the position where it lands is not full, and is not blocked (owned) by another team.
  1. A position is full if it has four checkers on it.
- 2. A position is blocked for a team, if it has two or more checkers of another team (at least two of that same team).
+ 2. A position is blocked (owned) by a team, if it has two or more of it checkers in it.
 
 If a checker is in a position that becomes blocked by another team, that checker is hit and must start over from the beginning of the board. In other words: if that team place a second checker in a position. All other checkers in that position that are not his teams are hit.
 
-As a conclusion bonus: Note that Two, three, and four different teams share the same position at once. In this, it differs from many games.
+That's it!.
+As far as I have tested this rules, they are very simple to follow and produce a fun game that can be enjoyed by kids.
 
 # Special Rules
-As far as I have tested this rules, they are very simple to follow and produce a fun game that can be enjoyed by kids, yet, you can use special rules to spice up the game mechanics, and create a game that is very, very intresting.
 
-These special rules are (as of now) structures or classes of checkers. Each with special behaviors.
+Yet, you can use special rules to spice up the game mechanics, and create a game that is very, very intresting.
+
+These special rules are (as of now) special structures and classes of checkers. Each, with their own behavior.
 
 ## Checker Classes:
 
-I have developed 2 kinds, but many more could be added.
+I developed 2 kinds, but many more could be added.
 
 ### Pin
 - This checker pins other teams checkers on the position it currently stands. 
 - If a team's pin is in the same position of other team's checkers, those checkers can not move, until the pin is removed, or hit. 
-- Pin do not pin pins. Or, if you have a pin in a position, along with another's team pin, both can move.
+- Pin do not pin pins. If you have a pin in a position, along with another's team pin, both can move.
+
 ### Strong
 - This checker is stronger than the others, and hits every other checker that is not in his team.
 - If a strong checker lands in a position where another team's pin is (alone), that pin is hit and has to go back.
@@ -57,8 +62,8 @@ I have developed 2 kinds, but many more could be added.
 ## Board Structures:
 
 ### The Bridges. 
-- The bridge is an special part of the board, fist concieved for the starting position, but usable on middle field. 
-- On a bridge there are 6 (or less), 1-checker-sized positions, and each checker on it blocks the path of those who are behind it. They can not pass it.
+- The bridge is an special part of the board, fist concieved (and only tested) as the starting position, but it maybe usable on middle field. 
+- On a bridge there are 6 (or less), 1-checker-sized positions, and each checker on it blocks the path of those who are behind. They can not pass it.
 - As a starting position, you put each team on its own bridge, an they start playing from that given position following the above rule until they reach the middle field.
 - If a checker is hit, it must come back to the first free position of that bridge.
 - You can skip bridges entirely when playing with kids if you like, and use a free start position for each team member.
@@ -90,6 +95,10 @@ I have developed 2 kinds, but many more could be added.
   - Bidirectional: You have one checker that can go back and forth.
   - The addition of this classes depends on the ammount of checkers in one team. You need to have at lest 60% of regulars checkers. Why? I Don't know, normal distribution I guess.
   - A multi path board could be made, with splited paths and joined again, one longer than the other but without a bottleneck (for instance). Board architechture could be a huge new world for the future.
+  
+# Themes
+
+Many people tells me games are better off themed. In that case, I think a Vulcano Escape theme should fit here, but I'm an abstract type of guy.
   
 [sampleboard]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/playing.jpeg "Board and Team Showcase"
 
