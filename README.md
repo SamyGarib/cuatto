@@ -11,6 +11,8 @@ Cuatto is actually hundreds of games based on a simple modular 3d-printable boar
 
 Cuatto was born when I wanted to make a backgammon like game for a group of people of my office.
 
+![Collage of Pictures][collage1]
+
 I would like Cuatto to be improved by the community if they find it fancy enough. 
 Because of that, I'm posting:
  1. The 3d models I made (both in OpenSCAD source code (with functions and variable names in spanish :O) and ready to print STLs). 
@@ -103,4 +105,5 @@ Many people tells me games are better off themed. In that case, I think a Vulcan
   
 [sampleboard]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/playing.jpeg "Board and Team Showcase"
 [elements1]: https://github.com/SamyGarib/cuatto/raw/master/images/render/elements2.png "Board and Team Showcase"
+[collage1]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/collage1.png "Pictures"
 
