@@ -91,5 +91,5 @@ I have developed 2 kinds, but many more could be added.
   - The addition of this classes depends on the ammount of checkers in one team. You need to have at lest 60% of regulars checkers. Why? I Don't know, normal distribution I guess.
   - A multi path board could be made, with splited paths and joined again, one longer than the other but without a bottleneck (for instance). Board architechture could be a huge new world for the future.
   
-[sampleboard]: https://github.com/SamyGarib/cuatto/raw/master/images/render/boardsample.png "Board and Team Showcase"
+[sampleboard]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/playing.jpeg "Board and Team Showcase"
 
