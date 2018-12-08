@@ -69,8 +69,9 @@ I developed 2 kinds, but many more could be added.
 - You can skip bridges entirely when playing with kids if you like, and use a free start position for each team member.
 - I guess you can use the bridge as a ending point too. I have not figure it out a rule that makes sense for that yet (without making an horrorifically luck oriented ending).
 
-
 ## Game Elements
+![Sample Board and Team][elements1]
+
 
 ### Basic Rules Setup: 
 - 18 squares.
@@ -101,4 +102,5 @@ I developed 2 kinds, but many more could be added.
 Many people tells me games are better off themed. In that case, I think a Vulcano Escape theme should fit here, but I'm an abstract type of guy.
   
 [sampleboard]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/playing.jpeg "Board and Team Showcase"
+[elements1]: https://github.com/SamyGarib/cuatto/raw/master/images/render/elements1.png "Board and Team Showcase"
 
