@@ -37,6 +37,10 @@ The checker can move if the position where it lands is not full, and is not bloc
 
 If a checker is in a position that becomes blocked by another team, that checker is hit and must start over from the beginning of the board. In other words: if that team place a second checker in a position. All other checkers in that position that are not his teams are hit.
 
+
+![Hit and Block][hitandblock]
+
+
 That's it!.
 As far as I have tested this rules, they are very simple to follow and produce a fun game that can be enjoyed by kids.
 
@@ -118,4 +122,5 @@ Many people tells me games are better off themed. In that case, I think a Vulcan
 [elements1]: https://github.com/SamyGarib/cuatto/raw/master/images/render/elements2.png "Board and Team Showcase"
 [collage1]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/collage1.png "Pictures"
 [dostablas]: https://github.com/SamyGarib/cuatto/raw/master/images/tutorial/dostablas.png "Pictures"
+[hitandblock]: https://github.com/SamyGarib/cuatto/raw/master/images/tutorial/hitandblock.png "Pictures"
 
