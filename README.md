@@ -84,15 +84,15 @@ I developed 2 kinds, but many more could be added.
 ### Basic Rules Setup: 
 - 18 squares.
 - Checkers per team:
- - 6 regular.
+  - 6 regular.
 
 ### Full Setup:
 - Starting Bridge, one per team. A 4 team bridges piece is provided.
 - 18 squares.
 - Checkers per team:
- - 4 regular checkers.
- - 1 pin checker.
- - 1 strong checker.
+  - 4 regular checkers.
+  - 1 pin checker.
+  - 1 strong checker.
 
 ### Printing.
 
@@ -105,15 +105,15 @@ In the 3dmodels subfolder, you can find 3 STL files ready for print.
 In the 3dmodels subfolder the file board.scad has the source code in [Open SCAD](http://www.openscad.org/) format.
 
 # Observations and Future:
-- I'm now in a phase of testing. I have played it with many friend with great results, but I feel I coul'd change many macro rules to making more fun, like the team composition, board architecture, an so on.
-- I'm not sure about the amount of checkers vs the amount of players that would be optimal. Testing with 6, planning on more, maybe 10/12 for two people.
-- The double mechanics, like backgammon's, where you get 4 movements if you roll double, is on testing too. Because you are not confronted as in backgammon, too many doubles gives too much advantage, and not hassles as in Backgammon.
+- I'm now in a phase of testing. I have played it with many friends and amazing results, but I feel I coul'd change many macro rules in order to making it more fun, like team composition, board architecture, an so on.
+- I'm not sure about the amount of checkers vs the amount of players that would be optimal. I'm testing with 6, planning on more, maybe 10/12 for two people.
+- The double mechanics, like backgammon's, where you get 4 movements if you roll a double, is on testing too. Because you are not confronted, too many doubles gives too much advantage without the backgammon's hassles.
 - I'm considering adding bridges in the middle of the board, as a bottle-neck device. Idea phase, needs testing, probably won't work.
 - I have other classes of checkers to develop and test:
- - Wounded, odd and even: Those checkers can only move odd, or even numbers. You have one of each. 
+  - Wounded, odd and even: Those checkers can only move odd, or even numbers. You have one of each. 
   - Bidirectional: You have one checker that can go back and forth.
-  - The addition of this classes depends on the ammount of checkers in one team. You need to have at lest 60% of regulars checkers. Why? I Don't know, normal distribution I guess.
-  - A multi path board could be made, with splited paths and joined again, one longer than the other but without a bottleneck (for instance). Board architechture could be a huge new world for the future.
+  - The addition of this classes depends on the ammount of checkers in one team. You need to have at lest 60% of regulars checkers. Why? I Don't know, normal distribution I guess. If everybody is special, no one is.
+- A multi path board could be made, with splited paths that join again further in the board, one longer than the other but without a bottleneck (for instance). Board architechture could be a huge new world for the future.
   
 # Themes
 
