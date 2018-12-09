@@ -3,13 +3,13 @@ Cuatto is an open source abstract dice race game aimed for the whole family, des
 
 ![Sample Board and Team][sampleboard]
 
-It has a basic set of rules that are easily understandable by a 5 years old, and layers of rules that enhance the game complexity that is great for a group of adults.
+It has a basic set of rules that are easily understandable by a 5 years old, and layers of rules that enhance the game complexity and are great for a group of adults.
 
-You can bend Cuatto's rules as you like, and create different setups that can differ between each other in length, board architecture, amount of checkers on each team, and classes of checkers for the teams.
+You can bend Cuatto's rules as you like, and create different setups that can differ on each other in length, board architecture, amount of checkers on each team, and classes of checkers for the teams.
 
-Cuatto is actually hundreds of games based on a simple modular 3d-printable board design.
+Cuatto is actually hundreds of games based on a simple modular 3d-printable board design, and a root mechanic.
 
-Cuatto was born when I wanted to make a backgammon like game for a group of people of my office.
+Cuatto was born when I wanted to make a backgammon like game for a group of people in my office.
 
 ![Collage of Pictures][collage1]
 
@@ -23,30 +23,31 @@ Because of that, I'm posting:
 
 ![Diagrama Tablas Partida][dostablas]
 The field is composed of 12 to 24 four-checkers-sized positions.
-Each team has 6 checkers (or more, or less).
+Each team has 6 checkers.
 
 The goal of the game is to move all of your checkers from the start position to the end position. The first team that gets all of its checkers out of the board wins.
 
 In the basic form, the starting position of the team is just outside the board (position 0, where everybody is).
 
-On each turn, a player throws 2 dice, and has two movements to make, for each die face value.
+On each turn, a player throws 2 dice, and has two movements to make, for each die face value. 
 
 The checker can move if the position where it lands is not full, and is not blocked (owned) by another team.
  1. A position is full if it has four checkers on it.
  2. A position is blocked (owned) by a team, if it has two or more of it checkers in it.
 
-If a checker is in a position that becomes blocked by another team, that checker is hit and must start over from the beginning of the board. In other words: if that team place a second checker in a position. All other checkers in that position that are not his teams are hit.
+If a checker is in a position that becomes blocked by another team, that checker is hit and must start over from the beginning of the board. In other words: if that team place a second checker in a position, all other checkers in that position that are not his teams are hit.
 
 
 ![Hit and Block][hitandblock]
 
 
 That's it!.
+
 As far as I have tested this rules, they are very simple to follow and produce a fun game that can be enjoyed by kids.
 
 # Special Rules
 
-Yet, you can use special rules to spice up the game mechanics, and create a game that is very, very intresting.
+You can use special rules to spice up the game mechanics, and create a game that is super fun and more complex.
 
 These special rules are (as of now) special structures and classes of checkers. Each, with their own behavior.
 
