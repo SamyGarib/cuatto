@@ -21,6 +21,7 @@ Because of that, I'm posting:
 
 # Basic Rules
 
+![Diagrama Tablas Partida][dostablas]
 The field is composed of 12 to 24 four-checkers-sized positions.
 Each team has 6 checkers (or more, or less).
 
@@ -116,4 +117,5 @@ Many people tells me games are better off themed. In that case, I think a Vulcan
 [sampleboard]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/playing.jpeg "Board and Team Showcase"
 [elements1]: https://github.com/SamyGarib/cuatto/raw/master/images/render/elements2.png "Board and Team Showcase"
 [collage1]: https://github.com/SamyGarib/cuatto/raw/master/images/gameplay/collage1.png "Pictures"
+[dostablas]: https://github.com/SamyGarib/cuatto/raw/master/images/tutorial/dostablas.png "Pictures"
 
