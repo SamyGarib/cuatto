@@ -106,7 +106,7 @@ In the 3dmodels subfolder the file board.scad has the source code in [Open SCAD]
 # Observations and Future:
 - I'm now in a phase of testing. I have played it with many friend with great results, but I feel I coul'd change many macro rules to making more fun, like the team composition, board architecture, an so on.
 - I'm not sure about the amount of checkers vs the amount of players that would be optimal. Testing with 6, planning on more, maybe 10/12 for two people.
-- The double mechanics, like backgammon's, where you get 4 movements if you roll double, is on testing too. Because you are not (enfrentado) as in backgammon, to many doubles gives to much advantage, and not many (problemas) as in Backgammon.
+- The double mechanics, like backgammon's, where you get 4 movements if you roll double, is on testing too. Because you are not confronted as in backgammon, too many doubles gives too much advantage, and not hassles as in Backgammon.
 - I'm considering adding bridges in the middle of the board, as a bottle-neck device. Idea phase, needs testing, probably won't work.
 - I have other classes of checkers to develop and test:
  - Wounded, odd and even: Those checkers can only move odd, or even numbers. You have one of each. 
